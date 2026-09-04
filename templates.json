@@ -1,20 +1,5 @@
 [
   {
-    "id": "cerebras",
-    "name": "Cerebras",
-    "base_url": "https://api.cerebras.ai/v1",
-    "protocol": "openai",
-    "models": [
-      "llama-3.3-70b",
-      "llama-3.1-8b"
-    ],
-    "description": "Fastest inference using wafer-scale engines",
-    "homepage": "https://cerebras.ai",
-    "free_tier": "Free API key with rate limits",
-    "status": "alive",
-    "last_checked": "2026-09-04T21:10:25.251Z"
-  },
-  {
     "id": "deepseek",
     "name": "DeepSeek",
     "base_url": "https://api.deepseek.com/v1",
@@ -27,7 +12,8 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:25.664Z"
+    "last_checked": "2026-09-04T21:10:25.664Z",
+    "featured": true
   },
   {
     "id": "google-gemini-openai",
@@ -43,7 +29,8 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-04T21:10:25.743Z"
+    "last_checked": "2026-09-04T21:10:25.743Z",
+    "featured": true
   },
   {
     "id": "groq",
@@ -59,7 +46,24 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:25.846Z"
+    "last_checked": "2026-09-04T21:10:25.846Z",
+    "featured": true
+  },
+  {
+    "id": "cerebras",
+    "name": "Cerebras",
+    "base_url": "https://api.cerebras.ai/v1",
+    "protocol": "openai",
+    "models": [
+      "llama-3.3-70b",
+      "llama-3.1-8b"
+    ],
+    "description": "Fastest inference using wafer-scale engines",
+    "homepage": "https://cerebras.ai",
+    "free_tier": "Free API key with rate limits",
+    "status": "alive",
+    "last_checked": "2026-09-04T21:10:25.251Z",
+    "featured": false
   },
   {
     "id": "hyperbolic",
@@ -74,7 +78,8 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:26.218Z"
+    "last_checked": "2026-09-04T21:10:26.218Z",
+    "featured": false
   },
   {
     "id": "mistral",
@@ -90,7 +95,8 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:26.694Z"
+    "last_checked": "2026-09-04T21:10:26.694Z",
+    "featured": false
   },
   {
     "id": "nvidia-nim",
@@ -184,7 +190,8 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:26.796Z"
+    "last_checked": "2026-09-04T21:10:26.796Z",
+    "featured": false
   },
   {
     "id": "openrouter-free",
@@ -626,7 +633,8 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:26.867Z"
+    "last_checked": "2026-09-04T21:10:26.867Z",
+    "featured": false
   },
   {
     "id": "sambanova",
@@ -646,7 +654,8 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:27.047Z"
+    "last_checked": "2026-09-04T21:10:27.047Z",
+    "featured": false
   },
   {
     "id": "together-ai",
@@ -661,6 +670,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-04T21:10:27.192Z"
+    "last_checked": "2026-09-04T21:10:27.192Z",
+    "featured": false
   }
 ]
