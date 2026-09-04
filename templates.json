@@ -13,7 +13,8 @@
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:25.664Z",
-    "featured": true
+    "featured": true,
+    "source": "github"
   },
   {
     "id": "google-gemini-openai",
@@ -30,7 +31,8 @@
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
     "last_checked": "2026-09-04T21:10:25.743Z",
-    "featured": true
+    "featured": true,
+    "source": "github"
   },
   {
     "id": "groq",
@@ -47,7 +49,42 @@
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:25.846Z",
-    "featured": true
+    "featured": true,
+    "source": "github"
+  },
+  {
+    "id": "openrouter",
+    "name": "OpenRouter",
+    "base_url": "https://openrouter.ai/api/v1",
+    "protocol": "openai",
+    "models": [
+      "meta-llama/llama-3.3-70b-instruct",
+      "google/gemini-2.0-flash-exp:free",
+      "deepseek/deepseek-r1:free"
+    ],
+    "description": "Leading LLM aggregation router, 200+ models with free tier",
+    "homepage": "https://openrouter.ai",
+    "free_tier": "Free models available, pay-as-you-go for premium",
+    "source": "overseas_aggregator",
+    "featured": true,
+    "status": "unknown"
+  },
+  {
+    "id": "siliconflow",
+    "name": "SiliconFlow",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "protocol": "openai",
+    "models": [
+      "Qwen/Qwen2.5-72B-Instruct",
+      "deepseek-ai/DeepSeek-V3",
+      "meta-llama/Llama-3.1-8B-Instruct"
+    ],
+    "description": "China open-source model aggregation platform with free tier",
+    "homepage": "https://siliconflow.cn",
+    "free_tier": "Free tier for open-source models, no credit card",
+    "source": "china_official",
+    "featured": true,
+    "status": "unknown"
   },
   {
     "id": "cerebras",
@@ -63,7 +100,8 @@
     "free_tier": "Free API key with rate limits",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:25.251Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
   },
   {
     "id": "hyperbolic",
@@ -79,7 +117,8 @@
     "free_tier": "Free tier with rate limits",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:26.218Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
   },
   {
     "id": "mistral",
@@ -96,7 +135,8 @@
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:26.694Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
   },
   {
     "id": "nvidia-nim",
@@ -191,7 +231,8 @@
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:26.796Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
   },
   {
     "id": "openrouter-free",
@@ -634,7 +675,8 @@
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:26.867Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
   },
   {
     "id": "sambanova",
@@ -655,7 +697,25 @@
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:27.047Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
+  },
+  {
+    "id": "teamorouter",
+    "name": "TeamoRouter",
+    "base_url": "https://api.teamorouter.com/v1",
+    "protocol": "openai",
+    "models": [
+      "gpt-4o-mini",
+      "claude-3.5-sonnet",
+      "deepseek-chat"
+    ],
+    "description": "China direct-connect aggregation gateway with free quota",
+    "homepage": "https://teamorouter.com",
+    "free_tier": "Free quota for new users",
+    "source": "china_aggregator",
+    "featured": false,
+    "status": "unknown"
   },
   {
     "id": "together-ai",
@@ -671,6 +731,24 @@
     "free_tier": "$5 free credits on signup",
     "status": "alive",
     "last_checked": "2026-09-04T21:10:27.192Z",
-    "featured": false
+    "featured": false,
+    "source": "github"
+  },
+  {
+    "id": "volcengine-ark",
+    "name": "Volcengine Ark",
+    "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "protocol": "openai",
+    "models": [
+      "doubao-pro-32k",
+      "doubao-lite-32k",
+      "doubao-pro-128k"
+    ],
+    "description": "ByteDance Volcengine Ark platform, Doubao model series",
+    "homepage": "https://www.volcengine.com/product/ark",
+    "free_tier": "Free trial quota for new users",
+    "source": "china_official",
+    "featured": false,
+    "status": "unknown"
   }
 ]
