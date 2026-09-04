@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cerebras",
+    "name": "Cerebras",
+    "base_url": "https://api.cerebras.ai/v1",
+    "protocol": "openai",
+    "models": ["llama-3.3-70b", "llama-3.1-8b"],
+    "description": "Fastest inference using wafer-scale engines",
+    "homepage": "https://cerebras.ai",
+    "free_tier": "Free API key with rate limits"
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "base_url": "https://api.deepseek.com/v1",
+    "protocol": "openai",
+    "models": ["deepseek-chat", "deepseek-reasoner"],
+    "description": "High-quality reasoning and chat models at low cost",
+    "homepage": "https://deepseek.com",
+    "free_tier": "Free beta access with rate limits"
+  },
+  {
+    "id": "google-gemini-openai",
+    "name": "Google Gemini (OpenAI-compatible)",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "protocol": "openai",
+    "models": ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-1.5-flash"],
+    "description": "Google Gemini API via OpenAI-compatible endpoint",
+    "homepage": "https://ai.google.dev",
+    "free_tier": "Free tier with generous quota, no credit card"
+  },
+  {
+    "id": "groq",
+    "name": "Groq",
+    "base_url": "https://api.groq.com/openai/v1",
+    "protocol": "openai",
+    "models": ["llama-3.3-70b-versatile", "llama-3.1-8b-instant", "mixtral-8x7b-32768"],
+    "description": "Ultra-fast inference for open-source models with generous free tier",
+    "homepage": "https://groq.com",
+    "free_tier": "Free API key, no credit card, rate-limited"
+  },
+  {
+    "id": "hyperbolic",
+    "name": "Hyperbolic",
+    "base_url": "https://api.hyperbolic.xyz/v1",
+    "protocol": "openai",
+    "models": ["meta-llama/Llama-3.3-70B-Instruct", "Qwen/Qwen2.5-72B-Instruct"],
+    "description": "GPU marketplace with free tier for open-source models",
+    "homepage": "https://hyperbolic.xyz",
+    "free_tier": "Free tier with rate limits"
+  },
+  {
+    "id": "mistral",
+    "name": "Mistral AI",
+    "base_url": "https://api.mistral.ai/v1",
+    "protocol": "openai",
+    "models": ["mistral-large-latest", "mistral-small-latest", "open-mistral-7b"],
+    "description": "European AI lab with open-weight and proprietary models",
+    "homepage": "https://mistral.ai",
+    "free_tier": "Free tier with rate limits, no credit card"
+  },
+  {
+    "id": "nvidia-nim",
+    "name": "NVIDIA NIM",
+    "base_url": "https://integrate.api.nvidia.com/v1",
+    "protocol": "openai",
+    "models": ["meta/llama-3.3-70b-instruct", "nvidia/llama-3.1-nemotron-70b-instruct"],
+    "description": "NVIDIA-hosted open models with free developer tier",
+    "homepage": "https://build.nvidia.com",
+    "free_tier": "Free developer credits, no credit card"
+  },
+  {
+    "id": "openrouter-free",
+    "name": "OpenRouter (Free Models)",
+    "base_url": "https://openrouter.ai/api/v1",
+    "protocol": "openai",
+    "models": ["meta-llama/llama-3.3-70b-instruct:free", "google/gemini-2.0-flash-exp:free"],
+    "description": "Aggregator with free-tier models from multiple providers",
+    "homepage": "https://openrouter.ai",
+    "free_tier": "Free models available, rate-limited"
+  },
+  {
+    "id": "sambanova",
+    "name": "SambaNova",
+    "base_url": "https://api.sambanova.ai/v1",
+    "protocol": "openai",
+    "models": ["Meta-Llama-3.3-70B-Instruct", "Meta-Llama-3.1-8B-Instruct"],
+    "description": "RISC-based AI accelerator with free API access",
+    "homepage": "https://sambanova.ai",
+    "free_tier": "Free API key, rate-limited"
+  },
+  {
+    "id": "together-ai",
+    "name": "Together AI",
+    "base_url": "https://api.together.xyz/v1",
+    "protocol": "openai",
+    "models": ["meta-llama/Llama-3.3-70B-Instruct-Turbo", "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"],
+    "description": "Hosted open-source models with free credits on signup",
+    "homepage": "https://together.ai",
+    "free_tier": "$5 free credits on signup"
+  }
+]
