@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:24.328Z",
+    "last_checked": "2026-09-09T12:53:08.619Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:24.686Z",
+    "last_checked": "2026-09-09T12:53:09.220Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-08T12:48:24.765Z",
+    "last_checked": "2026-09-09T12:53:09.326Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:24.903Z",
+    "last_checked": "2026-09-09T12:53:09.606Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.015Z",
+    "last_checked": "2026-09-09T12:53:09.961Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.278Z",
+    "last_checked": "2026-09-09T12:53:10.181Z",
     "featured": false,
     "source": "github"
   },
@@ -141,7 +141,6 @@
       "microsoft/kosmos-2",
       "microsoft/phi-3-vision-128k-instruct",
       "microsoft/phi-3.5-moe-instruct",
-      "minimaxai/minimax-m3",
       "mistralai/codestral-22b-instruct-v0.1",
       "mistralai/mistral-7b-instruct-v0.3",
       "mistralai/mistral-large",
@@ -196,7 +195,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.426Z",
+    "last_checked": "2026-09-09T12:53:10.350Z",
     "featured": false,
     "source": "github"
   },
@@ -206,6 +205,9 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "inception/mercury-2.5",
+      "nex-agi/nex-n2.5-mini:free",
+      "nex-agi/nex-n2.5-pro:free",
       "openai/gpt-6-astra",
       "openai/gpt-6-astra:batch",
       "openai/gpt-6-astra-pro",
@@ -218,7 +220,6 @@
       "google/gemini-3.8-flash:batch",
       "anthropic/claude-fable-5.1",
       "anthropic/claude-fable-5.1:batch",
-      "inception/mercury-2.5-preview",
       "ibm-granite/granite-4.2-8b",
       "tencent/hy4-preview",
       "inclusionai/ling-3.0-flash-fin",
@@ -229,11 +230,13 @@
       "z-ai/glm-5.3-flash:batch",
       "meta/muse-spark-1.2-contributor",
       "deepseek/deepseek-v4-flash-vision-exp",
+      "deepseek/deepseek-v4-flash-vision-exp:batch",
       "tencent/hy-mt2-1.8b",
       "tencent/hy-mt2-30b-a3b",
       "~z-ai/glm-latest",
       "tencent/hy-mt2-7b",
       "z-ai/glm-5.3",
+      "z-ai/glm-5.3:batch",
       "qwen/qwen3.8-27b",
       "dots-studio/dots-3-note-preview:free",
       "google/gemini-3.7-flash",
@@ -300,18 +303,17 @@
       "anthropic/claude-sonnet-5",
       "anthropic/claude-sonnet-5:batch",
       "google/gemini-3.1-flash-lite-image",
-      "nex-agi/nex-n2-mini",
       "sakana/fugu-ultra",
       "google/gemini-3.1-flash-image",
       "google/gemini-3-pro-image",
       "cohere/north-mini-code:free",
       "z-ai/glm-5.2",
+      "z-ai/glm-5.2:batch",
       "openrouter/fusion",
       "moonshotai/kimi-k2.7-code",
       "~anthropic/claude-fable-latest",
       "anthropic/claude-fable-5",
       "anthropic/claude-fable-5:batch",
-      "nex-agi/nex-n2-pro",
       "nvidia/nemotron-3.5-content-safety",
       "nvidia/nemotron-3.5-content-safety:free",
       "nvidia/nemotron-3-ultra-550b-a55b",
@@ -641,7 +643,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.608Z"
+    "last_checked": "2026-09-09T12:53:10.451Z"
   },
   {
     "id": "openrouter-free",
@@ -649,6 +651,9 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "inception/mercury-2.5",
+      "nex-agi/nex-n2.5-mini:free",
+      "nex-agi/nex-n2.5-pro:free",
       "openai/gpt-6-astra",
       "openai/gpt-6-astra:batch",
       "openai/gpt-6-astra-pro",
@@ -661,7 +666,6 @@
       "google/gemini-3.8-flash:batch",
       "anthropic/claude-fable-5.1",
       "anthropic/claude-fable-5.1:batch",
-      "inception/mercury-2.5-preview",
       "ibm-granite/granite-4.2-8b",
       "tencent/hy4-preview",
       "inclusionai/ling-3.0-flash-fin",
@@ -672,11 +676,13 @@
       "z-ai/glm-5.3-flash:batch",
       "meta/muse-spark-1.2-contributor",
       "deepseek/deepseek-v4-flash-vision-exp",
+      "deepseek/deepseek-v4-flash-vision-exp:batch",
       "tencent/hy-mt2-1.8b",
       "tencent/hy-mt2-30b-a3b",
       "~z-ai/glm-latest",
       "tencent/hy-mt2-7b",
       "z-ai/glm-5.3",
+      "z-ai/glm-5.3:batch",
       "qwen/qwen3.8-27b",
       "dots-studio/dots-3-note-preview:free",
       "google/gemini-3.7-flash",
@@ -743,18 +749,17 @@
       "anthropic/claude-sonnet-5",
       "anthropic/claude-sonnet-5:batch",
       "google/gemini-3.1-flash-lite-image",
-      "nex-agi/nex-n2-mini",
       "sakana/fugu-ultra",
       "google/gemini-3.1-flash-image",
       "google/gemini-3-pro-image",
       "cohere/north-mini-code:free",
       "z-ai/glm-5.2",
+      "z-ai/glm-5.2:batch",
       "openrouter/fusion",
       "moonshotai/kimi-k2.7-code",
       "~anthropic/claude-fable-latest",
       "anthropic/claude-fable-5",
       "anthropic/claude-fable-5:batch",
-      "nex-agi/nex-n2-pro",
       "nvidia/nemotron-3.5-content-safety",
       "nvidia/nemotron-3.5-content-safety:free",
       "nvidia/nemotron-3-ultra-550b-a55b",
@@ -1082,7 +1087,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.730Z",
+    "last_checked": "2026-09-09T12:53:10.513Z",
     "featured": false,
     "source": "github"
   },
@@ -1104,7 +1109,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:25.833Z",
+    "last_checked": "2026-09-09T12:53:11.430Z",
     "featured": false,
     "source": "github"
   },
@@ -1124,7 +1129,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:26.752Z"
+    "last_checked": "2026-09-09T12:53:12.407Z"
   },
   {
     "id": "teamorouter",
@@ -1142,7 +1147,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:27.447Z"
+    "last_checked": "2026-09-09T12:53:13.131Z"
   },
   {
     "id": "together-ai",
@@ -1157,7 +1162,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:27.564Z",
+    "last_checked": "2026-09-09T12:53:13.324Z",
     "featured": false,
     "source": "github"
   },
@@ -1177,6 +1182,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-08T12:48:28.317Z"
+    "last_checked": "2026-09-09T12:53:14.788Z"
   }
 ]
