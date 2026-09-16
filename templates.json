@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.181Z",
+    "last_checked": "2026-09-16T13:23:02.045Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.480Z",
+    "last_checked": "2026-09-16T13:23:02.442Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-15T13:24:09.574Z",
+    "last_checked": "2026-09-16T13:23:02.512Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.636Z",
+    "last_checked": "2026-09-16T13:23:02.640Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.696Z",
+    "last_checked": "2026-09-16T13:23:02.742Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.901Z",
+    "last_checked": "2026-09-16T13:23:03.111Z",
     "featured": false,
     "source": "github"
   },
@@ -189,6 +189,7 @@
       "writer/palmyra-fin-70b-32k",
       "writer/palmyra-med-70b",
       "writer/palmyra-med-70b-32k",
+      "z-ai/glm-5.3",
       "z-ai/glm-5.3-flash",
       "zyphra/zamba2-7b-instruct"
     ],
@@ -196,7 +197,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:09.989Z",
+    "last_checked": "2026-09-16T13:23:03.256Z",
     "featured": false,
     "source": "github"
   },
@@ -274,7 +275,6 @@
       "deepseek/deepseek-v4-flash-0731",
       "deepseek/deepseek-v4-flash-0731:batch",
       "thinkingmachines/inkling-small",
-      "thinkingmachines/inkling-small:batch",
       "thinkingmachines/inkling-small:free",
       "qwen/qwen3.7-flash",
       "anthropic/claude-opus-5",
@@ -382,7 +382,6 @@
       "google/gemma-4-26b-a4b-it",
       "google/gemma-4-26b-a4b-it:free",
       "google/gemma-4-31b-it",
-      "google/gemma-4-31b-it:batch",
       "google/gemma-4-31b-it:free",
       "qwen/qwen3.6-plus",
       "z-ai/glm-5v-turbo",
@@ -525,7 +524,6 @@
       "openai/gpt-oss-120b",
       "openai/gpt-oss-120b:batch",
       "openai/gpt-oss-20b",
-      "openai/gpt-oss-20b:batch",
       "anthropic/claude-opus-4.1",
       "anthropic/claude-opus-4.1:batch",
       "mistralai/codestral-2508",
@@ -659,7 +657,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:10.104Z"
+    "last_checked": "2026-09-16T13:23:03.553Z"
   },
   {
     "id": "openrouter-free",
@@ -735,7 +733,6 @@
       "deepseek/deepseek-v4-flash-0731",
       "deepseek/deepseek-v4-flash-0731:batch",
       "thinkingmachines/inkling-small",
-      "thinkingmachines/inkling-small:batch",
       "thinkingmachines/inkling-small:free",
       "qwen/qwen3.7-flash",
       "anthropic/claude-opus-5",
@@ -843,7 +840,6 @@
       "google/gemma-4-26b-a4b-it",
       "google/gemma-4-26b-a4b-it:free",
       "google/gemma-4-31b-it",
-      "google/gemma-4-31b-it:batch",
       "google/gemma-4-31b-it:free",
       "qwen/qwen3.6-plus",
       "z-ai/glm-5v-turbo",
@@ -986,7 +982,6 @@
       "openai/gpt-oss-120b",
       "openai/gpt-oss-120b:batch",
       "openai/gpt-oss-20b",
-      "openai/gpt-oss-20b:batch",
       "anthropic/claude-opus-4.1",
       "anthropic/claude-opus-4.1:batch",
       "mistralai/codestral-2508",
@@ -1118,7 +1113,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:10.268Z",
+    "last_checked": "2026-09-16T13:23:03.679Z",
     "featured": false,
     "source": "github"
   },
@@ -1140,7 +1135,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:10.307Z",
+    "last_checked": "2026-09-16T13:23:03.773Z",
     "featured": false,
     "source": "github"
   },
@@ -1160,7 +1155,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:11.267Z"
+    "last_checked": "2026-09-16T13:23:04.967Z"
   },
   {
     "id": "teamorouter",
@@ -1178,7 +1173,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:11.737Z"
+    "last_checked": "2026-09-16T13:23:05.519Z"
   },
   {
     "id": "together-ai",
@@ -1193,7 +1188,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:11.822Z",
+    "last_checked": "2026-09-16T13:23:05.647Z",
     "featured": false,
     "source": "github"
   },
@@ -1213,6 +1208,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-15T13:24:12.961Z"
+    "last_checked": "2026-09-16T13:23:07.612Z"
   }
 ]
