@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:41.391Z",
+    "last_checked": "2026-09-20T12:59:41.921Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:41.760Z",
+    "last_checked": "2026-09-20T12:59:42.646Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-19T12:25:41.822Z",
+    "last_checked": "2026-09-20T12:59:42.702Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:41.892Z",
+    "last_checked": "2026-09-20T12:59:42.799Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:42.035Z",
+    "last_checked": "2026-09-20T12:59:42.945Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:42.302Z",
+    "last_checked": "2026-09-20T12:59:43.095Z",
     "featured": false,
     "source": "github"
   },
@@ -197,7 +197,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:42.441Z",
+    "last_checked": "2026-09-20T12:59:43.196Z",
     "featured": false,
     "source": "github"
   },
@@ -278,7 +278,6 @@
       "~deepseek/deepseek-v4-flash-latest",
       "deepseek/deepseek-v4-flash-0731",
       "deepseek/deepseek-v4-flash-0731:batch",
-      "deepseek/deepseek-v4-flash-0731:free",
       "thinkingmachines/inkling-small",
       "thinkingmachines/inkling-small:free",
       "qwen/qwen3.7-flash",
@@ -661,7 +660,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:42.840Z"
+    "last_checked": "2026-09-20T12:59:43.272Z"
   },
   {
     "id": "openrouter-free",
@@ -740,7 +739,6 @@
       "~deepseek/deepseek-v4-flash-latest",
       "deepseek/deepseek-v4-flash-0731",
       "deepseek/deepseek-v4-flash-0731:batch",
-      "deepseek/deepseek-v4-flash-0731:free",
       "thinkingmachines/inkling-small",
       "thinkingmachines/inkling-small:free",
       "qwen/qwen3.7-flash",
@@ -1121,7 +1119,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:43.024Z",
+    "last_checked": "2026-09-20T12:59:43.331Z",
     "featured": false,
     "source": "github"
   },
@@ -1143,7 +1141,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:43.445Z",
+    "last_checked": "2026-09-20T12:59:43.515Z",
     "featured": false,
     "source": "github"
   },
@@ -1163,7 +1161,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:44.411Z"
+    "last_checked": "2026-09-20T12:59:45.063Z"
   },
   {
     "id": "teamorouter",
@@ -1181,7 +1179,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:44.978Z"
+    "last_checked": "2026-09-20T12:59:46.017Z"
   },
   {
     "id": "together-ai",
@@ -1196,7 +1194,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:45.108Z",
+    "last_checked": "2026-09-20T12:59:46.130Z",
     "featured": false,
     "source": "github"
   },
@@ -1216,6 +1214,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-19T12:25:46.821Z"
+    "last_checked": "2026-09-20T12:59:46.987Z"
   }
 ]
