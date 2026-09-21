@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:41.921Z",
+    "last_checked": "2026-09-21T15:01:24.671Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:42.646Z",
+    "last_checked": "2026-09-21T15:01:25.001Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-20T12:59:42.702Z",
+    "last_checked": "2026-09-21T15:01:25.094Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:42.799Z",
+    "last_checked": "2026-09-21T15:01:25.169Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:42.945Z",
+    "last_checked": "2026-09-21T15:01:25.244Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:43.095Z",
+    "last_checked": "2026-09-21T15:01:25.447Z",
     "featured": false,
     "source": "github"
   },
@@ -117,7 +117,6 @@
       "bigcode/starcoder2-15b",
       "databricks/dbrx-instruct",
       "deepseek-ai/deepseek-coder-6.7b-instruct",
-      "deepseek-ai/deepseek-v4-flash-0731",
       "google/codegemma-1.1-7b",
       "google/codegemma-7b",
       "google/deplot",
@@ -197,7 +196,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:43.196Z",
+    "last_checked": "2026-09-21T15:01:25.520Z",
     "featured": false,
     "source": "github"
   },
@@ -660,7 +659,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:43.272Z"
+    "last_checked": "2026-09-21T15:01:25.671Z"
   },
   {
     "id": "openrouter-free",
@@ -1119,7 +1118,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:43.331Z",
+    "last_checked": "2026-09-21T15:01:25.934Z",
     "featured": false,
     "source": "github"
   },
@@ -1141,7 +1140,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:43.515Z",
+    "last_checked": "2026-09-21T15:01:25.975Z",
     "featured": false,
     "source": "github"
   },
@@ -1161,7 +1160,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:45.063Z"
+    "last_checked": "2026-09-21T15:01:26.943Z"
   },
   {
     "id": "teamorouter",
@@ -1179,7 +1178,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:46.017Z"
+    "last_checked": "2026-09-21T15:01:27.471Z"
   },
   {
     "id": "together-ai",
@@ -1194,7 +1193,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:46.130Z",
+    "last_checked": "2026-09-21T15:01:27.543Z",
     "featured": false,
     "source": "github"
   },
@@ -1214,6 +1213,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-20T12:59:46.987Z"
+    "last_checked": "2026-09-21T15:01:29.298Z"
   }
 ]
