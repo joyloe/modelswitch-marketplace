@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:08.770Z",
+    "last_checked": "2026-09-24T13:28:33.071Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:09.182Z",
+    "last_checked": "2026-09-24T13:28:33.440Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-09-23T13:33:09.264Z",
+    "last_checked": "2026-09-24T13:28:33.491Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:09.369Z",
+    "last_checked": "2026-09-24T13:28:33.598Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:09.690Z",
+    "last_checked": "2026-09-24T13:28:33.721Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:09.864Z",
+    "last_checked": "2026-09-24T13:28:33.959Z",
     "featured": false,
     "source": "github"
   },
@@ -197,7 +197,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:09.968Z",
+    "last_checked": "2026-09-24T13:28:34.077Z",
     "featured": false,
     "source": "github"
   },
@@ -207,6 +207,12 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "fireworks/ember-1",
+      "z-ai/glm-5.3-prime",
+      "qwen/qwen3.8-max-prime",
+      "stealth/space-bunny-alpha",
+      "aion-labs/aion-3.5-mini",
+      "aion-labs/aion-3.5",
       "upstage/solar-mini4",
       "cohere/command-a-plus",
       "openai/gpt-6-luna-pro",
@@ -238,13 +244,10 @@
       "sakana/fugu-ultra-v2",
       "sakana/fugu-max",
       "inclusionai/ling-3.0-flash-vl",
-      "inclusionai/ling-3.0-flash-vl:free",
       "deepseek/deepseek-v4.1-flash",
       "deepseek/deepseek-v4.1-flash:batch",
       "inception/mercury-2.5",
-      "nex-agi/nex-n2.5-mini",
       "nex-agi/nex-n2.5-mini:free",
-      "nex-agi/nex-n2.5-pro",
       "nex-agi/nex-n2.5-pro:free",
       "openai/gpt-6-astra",
       "openai/gpt-6-astra:batch",
@@ -468,7 +471,6 @@
       "openai/gpt-5.2-pro:batch",
       "openai/gpt-5.2",
       "openai/gpt-5.2:batch",
-      "mistralai/devstral-2512",
       "relace/relace-search",
       "z-ai/glm-4.6v",
       "openrouter/bodybuilder",
@@ -535,6 +537,7 @@
       "openai/gpt-5-nano",
       "openai/gpt-5-nano:batch",
       "openai/gpt-oss-120b",
+      "openai/gpt-oss-120b:batch",
       "openai/gpt-oss-20b",
       "openai/gpt-oss-20b:batch",
       "anthropic/claude-opus-4.1",
@@ -669,7 +672,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:10.043Z"
+    "last_checked": "2026-09-24T13:28:34.179Z"
   },
   {
     "id": "openrouter-free",
@@ -677,6 +680,12 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "fireworks/ember-1",
+      "z-ai/glm-5.3-prime",
+      "qwen/qwen3.8-max-prime",
+      "stealth/space-bunny-alpha",
+      "aion-labs/aion-3.5-mini",
+      "aion-labs/aion-3.5",
       "upstage/solar-mini4",
       "cohere/command-a-plus",
       "openai/gpt-6-luna-pro",
@@ -708,13 +717,10 @@
       "sakana/fugu-ultra-v2",
       "sakana/fugu-max",
       "inclusionai/ling-3.0-flash-vl",
-      "inclusionai/ling-3.0-flash-vl:free",
       "deepseek/deepseek-v4.1-flash",
       "deepseek/deepseek-v4.1-flash:batch",
       "inception/mercury-2.5",
-      "nex-agi/nex-n2.5-mini",
       "nex-agi/nex-n2.5-mini:free",
-      "nex-agi/nex-n2.5-pro",
       "nex-agi/nex-n2.5-pro:free",
       "openai/gpt-6-astra",
       "openai/gpt-6-astra:batch",
@@ -938,7 +944,6 @@
       "openai/gpt-5.2-pro:batch",
       "openai/gpt-5.2",
       "openai/gpt-5.2:batch",
-      "mistralai/devstral-2512",
       "relace/relace-search",
       "z-ai/glm-4.6v",
       "openrouter/bodybuilder",
@@ -1005,6 +1010,7 @@
       "openai/gpt-5-nano",
       "openai/gpt-5-nano:batch",
       "openai/gpt-oss-120b",
+      "openai/gpt-oss-120b:batch",
       "openai/gpt-oss-20b",
       "openai/gpt-oss-20b:batch",
       "anthropic/claude-opus-4.1",
@@ -1137,7 +1143,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:10.088Z",
+    "last_checked": "2026-09-24T13:28:34.247Z",
     "featured": false,
     "source": "github"
   },
@@ -1159,7 +1165,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:10.392Z",
+    "last_checked": "2026-09-24T13:28:34.361Z",
     "featured": false,
     "source": "github"
   },
@@ -1179,7 +1185,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:11.512Z"
+    "last_checked": "2026-09-24T13:28:35.511Z"
   },
   {
     "id": "teamorouter",
@@ -1197,7 +1203,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:12.185Z"
+    "last_checked": "2026-09-24T13:28:36.044Z"
   },
   {
     "id": "together-ai",
@@ -1212,7 +1218,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:12.307Z",
+    "last_checked": "2026-09-24T13:28:36.176Z",
     "featured": false,
     "source": "github"
   },
@@ -1232,6 +1238,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-09-23T13:33:15.512Z"
+    "last_checked": "2026-09-24T13:28:37.900Z"
   }
 ]
