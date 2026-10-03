@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:16.295Z",
+    "last_checked": "2026-10-03T13:15:22.494Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:16.687Z",
+    "last_checked": "2026-10-03T13:15:22.978Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-10-02T14:39:16.764Z",
+    "last_checked": "2026-10-03T13:15:23.034Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:16.867Z",
+    "last_checked": "2026-10-03T13:15:23.317Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:17.015Z",
+    "last_checked": "2026-10-03T13:15:23.518Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:17.259Z",
+    "last_checked": "2026-10-03T13:15:23.649Z",
     "featured": false,
     "source": "github"
   },
@@ -165,7 +165,6 @@
       "nvidia/mistral-nemo-minitron-8b-8k-instruct",
       "nvidia/nemotron-3-embed-1b",
       "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
-      "nvidia/nemotron-3-super-120b-a12b",
       "nvidia/nemotron-3-ultra-550b-a55b",
       "nvidia/nemotron-3.5-content-safety",
       "nvidia/nemotron-3.5-lightning-30b-a3b",
@@ -196,7 +195,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:17.403Z",
+    "last_checked": "2026-10-03T13:15:23.693Z",
     "featured": false,
     "source": "github"
   },
@@ -233,6 +232,7 @@
       "openai/gpt-6-sol:batch",
       "anthropic/claude-opus-5.5",
       "anthropic/claude-opus-5.5:batch",
+      "nvidia/switchyard",
       "xiaomi/mimo-v2.6-pro-ultraspeed",
       "xiaomi/mimo-v2.6-flash",
       "xiaomi/mimo-v2.6-pro",
@@ -678,7 +678,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:17.702Z"
+    "last_checked": "2026-10-03T13:15:23.927Z"
   },
   {
     "id": "openrouter-free",
@@ -713,6 +713,7 @@
       "openai/gpt-6-sol:batch",
       "anthropic/claude-opus-5.5",
       "anthropic/claude-opus-5.5:batch",
+      "nvidia/switchyard",
       "xiaomi/mimo-v2.6-pro-ultraspeed",
       "xiaomi/mimo-v2.6-flash",
       "xiaomi/mimo-v2.6-pro",
@@ -1156,7 +1157,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:17.988Z",
+    "last_checked": "2026-10-03T13:15:24.005Z",
     "featured": false,
     "source": "github"
   },
@@ -1177,7 +1178,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:18.160Z",
+    "last_checked": "2026-10-03T13:15:24.357Z",
     "featured": false,
     "source": "github"
   },
@@ -1197,7 +1198,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:19.159Z"
+    "last_checked": "2026-10-03T13:15:26.130Z"
   },
   {
     "id": "teamorouter",
@@ -1215,7 +1216,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:19.691Z"
+    "last_checked": "2026-10-03T13:15:26.952Z"
   },
   {
     "id": "together-ai",
@@ -1230,7 +1231,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:19.831Z",
+    "last_checked": "2026-10-03T13:15:27.058Z",
     "featured": false,
     "source": "github"
   },
@@ -1250,6 +1251,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-02T14:39:20.533Z"
+    "last_checked": "2026-10-03T13:15:27.965Z"
   }
 ]
