@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:40.175Z",
+    "last_checked": "2026-10-12T17:41:30.502Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:40.505Z",
+    "last_checked": "2026-10-12T17:41:30.889Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-10-11T14:50:40.598Z",
+    "last_checked": "2026-10-12T17:41:30.979Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:40.677Z",
+    "last_checked": "2026-10-12T17:41:31.042Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:40.735Z",
+    "last_checked": "2026-10-12T17:41:31.261Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:40.922Z",
+    "last_checked": "2026-10-12T17:41:31.506Z",
     "featured": false,
     "source": "github"
   },
@@ -195,7 +195,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:41.007Z",
+    "last_checked": "2026-10-12T17:41:31.589Z",
     "featured": false,
     "source": "github"
   },
@@ -205,6 +205,7 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "meta/muse-wonder",
       "stepfun/step-5-preview",
       "anthropic/claude-haiku-5.5",
       "anthropic/claude-haiku-5.5:batch",
@@ -670,7 +671,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:41.185Z"
+    "last_checked": "2026-10-12T17:41:31.848Z"
   },
   {
     "id": "openrouter-free",
@@ -678,6 +679,7 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "meta/muse-wonder",
       "stepfun/step-5-preview",
       "anthropic/claude-haiku-5.5",
       "anthropic/claude-haiku-5.5:batch",
@@ -1141,7 +1143,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:41.273Z",
+    "last_checked": "2026-10-12T17:41:32.195Z",
     "featured": false,
     "source": "github"
   },
@@ -1162,7 +1164,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:42.300Z",
+    "last_checked": "2026-10-12T17:41:32.582Z",
     "featured": false,
     "source": "github"
   },
@@ -1182,7 +1184,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:43.241Z"
+    "last_checked": "2026-10-12T17:41:33.401Z"
   },
   {
     "id": "teamorouter",
@@ -1200,7 +1202,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:43.713Z"
+    "last_checked": "2026-10-12T17:41:33.919Z"
   },
   {
     "id": "together-ai",
@@ -1215,7 +1217,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:43.774Z",
+    "last_checked": "2026-10-12T17:41:33.982Z",
     "featured": false,
     "source": "github"
   },
@@ -1235,6 +1237,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-11T14:50:44.405Z"
+    "last_checked": "2026-10-12T17:41:34.725Z"
   }
 ]
