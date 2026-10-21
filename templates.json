@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:42.596Z",
+    "last_checked": "2026-10-21T13:39:26.239Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:42.993Z",
+    "last_checked": "2026-10-21T13:39:26.693Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-10-20T13:29:43.028Z",
+    "last_checked": "2026-10-21T13:39:26.797Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.163Z",
+    "last_checked": "2026-10-21T13:39:26.933Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.496Z",
+    "last_checked": "2026-10-21T13:39:27.115Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.642Z",
+    "last_checked": "2026-10-21T13:39:27.313Z",
     "featured": false,
     "source": "github"
   },
@@ -167,6 +167,8 @@
       "nvidia/nemotron-3-super-120b-a12b",
       "nvidia/nemotron-3-ultra-550b-a55b",
       "nvidia/nemotron-3.5-content-safety",
+      "nvidia/nemotron-3.5-embed-1b",
+      "nvidia/nemotron-3.5-embed-8b",
       "nvidia/nemotron-3.5-lightning-30b-a3b",
       "nvidia/nemotron-3.5-super-vl-120b-a12b",
       "nvidia/nemotron-4-340b-instruct",
@@ -196,7 +198,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.662Z",
+    "last_checked": "2026-10-21T13:39:27.445Z",
     "featured": false,
     "source": "github"
   },
@@ -681,7 +683,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.759Z"
+    "last_checked": "2026-10-21T13:39:27.696Z"
   },
   {
     "id": "openrouter-free",
@@ -1162,7 +1164,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:43.866Z",
+    "last_checked": "2026-10-21T13:39:27.860Z",
     "featured": false,
     "source": "github"
   },
@@ -1183,7 +1185,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:44.029Z",
+    "last_checked": "2026-10-21T13:39:28.346Z",
     "featured": false,
     "source": "github"
   },
@@ -1203,7 +1205,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:45.285Z"
+    "last_checked": "2026-10-21T13:39:29.356Z"
   },
   {
     "id": "teamorouter",
@@ -1221,7 +1223,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:46.058Z"
+    "last_checked": "2026-10-21T13:39:30.033Z"
   },
   {
     "id": "together-ai",
@@ -1236,7 +1238,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-10-20T13:29:46.195Z",
+    "last_checked": "2026-10-21T13:39:30.183Z",
     "featured": false,
     "source": "github"
   },
@@ -1255,7 +1257,7 @@
     "free_tier": "Free trial quota for new users",
     "source": "china_official",
     "featured": false,
-    "status": "down",
-    "last_checked": "2026-10-20T13:29:46.518Z"
+    "status": "alive",
+    "last_checked": "2026-10-21T13:39:30.948Z"
   }
 ]
