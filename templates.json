@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:38.344Z",
+    "last_checked": "2026-10-30T14:58:29.352Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:38.784Z",
+    "last_checked": "2026-10-30T14:58:29.723Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-10-29T15:07:38.852Z",
+    "last_checked": "2026-10-30T14:58:29.795Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:38.995Z",
+    "last_checked": "2026-10-30T14:58:29.925Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:39.370Z",
+    "last_checked": "2026-10-30T14:58:30.065Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:39.564Z",
+    "last_checked": "2026-10-30T14:58:30.321Z",
     "featured": false,
     "source": "github"
   },
@@ -200,7 +200,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:39.712Z",
+    "last_checked": "2026-10-30T14:58:30.458Z",
     "featured": false,
     "source": "github"
   },
@@ -487,7 +487,6 @@
       "openrouter/free",
       "stepfun/step-3.5-flash",
       "moonshotai/kimi-k2.5",
-      "upstage/solar-pro-3",
       "minimax/minimax-m2-her",
       "writer/palmyra-x5",
       "openai/gpt-audio",
@@ -674,7 +673,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:39.946Z"
+    "last_checked": "2026-10-30T14:58:30.848Z"
   },
   {
     "id": "openrouter-free",
@@ -959,7 +958,6 @@
       "openrouter/free",
       "stepfun/step-3.5-flash",
       "moonshotai/kimi-k2.5",
-      "upstage/solar-pro-3",
       "minimax/minimax-m2-her",
       "writer/palmyra-x5",
       "openai/gpt-audio",
@@ -1144,7 +1142,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:40.025Z",
+    "last_checked": "2026-10-30T14:58:32.065Z",
     "featured": false,
     "source": "github"
   },
@@ -1165,7 +1163,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:40.396Z",
+    "last_checked": "2026-10-30T14:58:32.245Z",
     "featured": false,
     "source": "github"
   },
@@ -1185,7 +1183,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:41.401Z"
+    "last_checked": "2026-10-30T14:58:33.197Z"
   },
   {
     "id": "teamorouter",
@@ -1203,7 +1201,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:42.053Z"
+    "last_checked": "2026-10-30T14:58:33.730Z"
   },
   {
     "id": "together-ai",
@@ -1218,7 +1216,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-10-29T15:07:42.191Z",
+    "last_checked": "2026-10-30T14:58:33.878Z",
     "featured": false,
     "source": "github"
   },
@@ -1237,7 +1235,7 @@
     "free_tier": "Free trial quota for new users",
     "source": "china_official",
     "featured": false,
-    "status": "down",
-    "last_checked": "2026-10-29T15:07:42.488Z"
+    "status": "alive",
+    "last_checked": "2026-10-30T14:58:35.009Z"
   }
 ]
