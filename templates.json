@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:46.512Z",
+    "last_checked": "2026-11-05T16:22:07.703Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:46.865Z",
+    "last_checked": "2026-11-05T16:22:08.014Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-11-04T16:07:46.899Z",
+    "last_checked": "2026-11-05T16:22:08.131Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:47.053Z",
+    "last_checked": "2026-11-05T16:22:08.247Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:47.433Z",
+    "last_checked": "2026-11-05T16:22:08.567Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:47.586Z",
+    "last_checked": "2026-11-05T16:22:08.849Z",
     "featured": false,
     "source": "github"
   },
@@ -132,7 +132,6 @@
       "ibm/granite-34b-code-instruct",
       "ibm/granite-8b-code-instruct",
       "meta/codellama-70b",
-      "meta/llama-3.2-11b-vision-instruct",
       "meta/llama-3.2-90b-vision-instruct",
       "meta/llama-guard-4-12b",
       "meta/llama2-70b",
@@ -200,7 +199,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:47.674Z",
+    "last_checked": "2026-11-05T16:22:08.970Z",
     "featured": false,
     "source": "github"
   },
@@ -210,6 +209,7 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "ricursiveai/ripple-65b-preview",
       "tencent/hy4",
       "stealth/crouton-alpha",
       "z-ai/glm-5.3-flashx-legal",
@@ -337,6 +337,7 @@
       "sakana/sakana-namazu",
       "upstage/solar-pro4",
       "meta/muse-glimmer-30b",
+      "inclusionai/ling-3.0-tiny",
       "meta/muse-spark-1.2",
       "~deepseek/deepseek-v4-flash-latest",
       "deepseek/deepseek-v4-flash-0731",
@@ -480,7 +481,6 @@
       "qwen/qwen3-coder-next",
       "stepfun/step-3.5-flash",
       "moonshotai/kimi-k2.5",
-      "minimax/minimax-m2-her",
       "writer/palmyra-x5",
       "openai/gpt-audio",
       "openai/gpt-audio-mini",
@@ -488,7 +488,6 @@
       "openai/gpt-5.2-codex",
       "bytedance-seed/seed-1.6-flash",
       "bytedance-seed/seed-1.6",
-      "minimax/minimax-m2.1",
       "z-ai/glm-4.7",
       "google/gemini-3-flash-preview",
       "google/gemini-3-flash-preview:batch",
@@ -520,7 +519,6 @@
       "perplexity/sonar-pro-search",
       "mistralai/voxtral-small-24b-2507",
       "openai/gpt-oss-safeguard-20b",
-      "minimax/minimax-m2",
       "openai/gpt-5-image-mini",
       "anthropic/claude-haiku-4.5",
       "anthropic/claude-haiku-4.5:batch",
@@ -614,7 +612,6 @@
       "openai/o3-mini:batch",
       "mistralai/mistral-small-24b-instruct-2501",
       "perplexity/sonar",
-      "minimax/minimax-01",
       "microsoft/phi-4",
       "deepseek/deepseek-chat",
       "cohere/command-r7b-12-2024",
@@ -655,14 +652,15 @@
       "undi95/remm-slerp-l2-13b",
       "gryphe/mythomax-l2-13b",
       "openai/gpt-4",
+      "openrouter/auto",
+      "openrouter/auto-code",
       "typesafe/jev-router",
       "nvidia/switchyard",
       "openrouter/auto-beta",
       "openrouter/fusion",
       "openrouter/pareto-code",
       "openrouter/free",
-      "openrouter/bodybuilder",
-      "openrouter/auto"
+      "openrouter/bodybuilder"
     ],
     "description": "Leading LLM aggregation router, 200+ models with free tier",
     "homepage": "https://openrouter.ai",
@@ -670,7 +668,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:47.940Z"
+    "last_checked": "2026-11-05T16:22:09.118Z"
   },
   {
     "id": "openrouter-free",
@@ -678,6 +676,7 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "ricursiveai/ripple-65b-preview",
       "tencent/hy4",
       "stealth/crouton-alpha",
       "z-ai/glm-5.3-flashx-legal",
@@ -805,6 +804,7 @@
       "sakana/sakana-namazu",
       "upstage/solar-pro4",
       "meta/muse-glimmer-30b",
+      "inclusionai/ling-3.0-tiny",
       "meta/muse-spark-1.2",
       "~deepseek/deepseek-v4-flash-latest",
       "deepseek/deepseek-v4-flash-0731",
@@ -948,7 +948,6 @@
       "qwen/qwen3-coder-next",
       "stepfun/step-3.5-flash",
       "moonshotai/kimi-k2.5",
-      "minimax/minimax-m2-her",
       "writer/palmyra-x5",
       "openai/gpt-audio",
       "openai/gpt-audio-mini",
@@ -956,7 +955,6 @@
       "openai/gpt-5.2-codex",
       "bytedance-seed/seed-1.6-flash",
       "bytedance-seed/seed-1.6",
-      "minimax/minimax-m2.1",
       "z-ai/glm-4.7",
       "google/gemini-3-flash-preview",
       "google/gemini-3-flash-preview:batch",
@@ -988,7 +986,6 @@
       "perplexity/sonar-pro-search",
       "mistralai/voxtral-small-24b-2507",
       "openai/gpt-oss-safeguard-20b",
-      "minimax/minimax-m2",
       "openai/gpt-5-image-mini",
       "anthropic/claude-haiku-4.5",
       "anthropic/claude-haiku-4.5:batch",
@@ -1082,7 +1079,6 @@
       "openai/o3-mini:batch",
       "mistralai/mistral-small-24b-instruct-2501",
       "perplexity/sonar",
-      "minimax/minimax-01",
       "microsoft/phi-4",
       "deepseek/deepseek-chat",
       "cohere/command-r7b-12-2024",
@@ -1123,20 +1119,21 @@
       "undi95/remm-slerp-l2-13b",
       "gryphe/mythomax-l2-13b",
       "openai/gpt-4",
+      "openrouter/auto",
+      "openrouter/auto-code",
       "typesafe/jev-router",
       "nvidia/switchyard",
       "openrouter/auto-beta",
       "openrouter/fusion",
       "openrouter/pareto-code",
       "openrouter/free",
-      "openrouter/bodybuilder",
-      "openrouter/auto"
+      "openrouter/bodybuilder"
     ],
     "description": "Aggregator with free-tier models from multiple providers",
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:48.026Z",
+    "last_checked": "2026-11-05T16:22:09.226Z",
     "featured": false,
     "source": "github"
   },
@@ -1155,7 +1152,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:48.197Z",
+    "last_checked": "2026-11-05T16:22:09.464Z",
     "featured": false,
     "source": "github"
   },
@@ -1175,7 +1172,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:49.349Z"
+    "last_checked": "2026-11-05T16:22:10.421Z"
   },
   {
     "id": "teamorouter",
@@ -1193,7 +1190,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:50.062Z"
+    "last_checked": "2026-11-05T16:22:11.244Z"
   },
   {
     "id": "together-ai",
@@ -1208,7 +1205,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-11-04T16:07:50.190Z",
+    "last_checked": "2026-11-05T16:22:11.396Z",
     "featured": false,
     "source": "github"
   },
@@ -1228,6 +1225,6 @@
     "source": "china_official",
     "featured": false,
     "status": "down",
-    "last_checked": "2026-11-04T16:07:50.538Z"
+    "last_checked": "2026-11-05T16:22:11.734Z"
   }
 ]
