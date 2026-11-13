@@ -11,8 +11,8 @@
     "description": "Fastest inference using wafer-scale engines",
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
-    "status": "alive",
-    "last_checked": "2026-11-12T16:43:47.557Z",
+    "status": "degraded",
+    "last_checked": "2026-11-13T16:04:01.789Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:48.006Z",
+    "last_checked": "2026-11-13T16:04:02.191Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-11-12T16:43:48.126Z",
+    "last_checked": "2026-11-13T16:04:02.249Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:48.238Z",
+    "last_checked": "2026-11-13T16:04:02.425Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:48.416Z",
+    "last_checked": "2026-11-13T16:04:02.607Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:48.658Z",
+    "last_checked": "2026-11-13T16:04:02.852Z",
     "featured": false,
     "source": "github"
   },
@@ -198,7 +198,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:48.758Z",
+    "last_checked": "2026-11-13T16:04:02.986Z",
     "featured": false,
     "source": "github"
   },
@@ -208,11 +208,14 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "google/gemini-4-hydrogen",
+      "google/gemini-4-hydrogen:batch",
       "baidu/ernie-5.5-flash-preview:free",
       "baidu/ernie-light-dt-1.0-intl",
       "google/gemini-4-carbon",
       "google/gemini-4-carbon:batch",
       "nex-agi/nex-n2.6",
+      "thinkingmachines/inkling-2-small",
       "thinkingmachines/inkling-2-small:free",
       "anthropic/claude-fable-5.2",
       "anthropic/claude-fable-5.2:batch",
@@ -227,6 +230,7 @@
       "motif-technologies/motif-3",
       "z-ai/glm-5.3-flashx-legal",
       "particle-ai/particle-1",
+      "particle-ai/particle-1:free",
       "openai/gpt-6.1-terra-pro",
       "openai/gpt-6.1-terra-pro:batch",
       "openai/gpt-6.1-terra",
@@ -344,8 +348,6 @@
       "deepseek/deepseek-v4-pro-0813",
       "x-ai/grok-4.6",
       "x-ai/grok-4.6:batch",
-      "liquid/lfm-2.5-2.6b",
-      "liquid/lfm-2.5-2.6b:free",
       "nvidia/nemotron-3.5-lightning",
       "nvidia/nemotron-3.5-lightning:free",
       "sakana/sakana-namazu",
@@ -683,7 +685,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:49.129Z"
+    "last_checked": "2026-11-13T16:04:04.057Z"
   },
   {
     "id": "openrouter-free",
@@ -691,11 +693,14 @@
     "base_url": "https://openrouter.ai/api/v1",
     "protocol": "openai",
     "models": [
+      "google/gemini-4-hydrogen",
+      "google/gemini-4-hydrogen:batch",
       "baidu/ernie-5.5-flash-preview:free",
       "baidu/ernie-light-dt-1.0-intl",
       "google/gemini-4-carbon",
       "google/gemini-4-carbon:batch",
       "nex-agi/nex-n2.6",
+      "thinkingmachines/inkling-2-small",
       "thinkingmachines/inkling-2-small:free",
       "anthropic/claude-fable-5.2",
       "anthropic/claude-fable-5.2:batch",
@@ -710,6 +715,7 @@
       "motif-technologies/motif-3",
       "z-ai/glm-5.3-flashx-legal",
       "particle-ai/particle-1",
+      "particle-ai/particle-1:free",
       "openai/gpt-6.1-terra-pro",
       "openai/gpt-6.1-terra-pro:batch",
       "openai/gpt-6.1-terra",
@@ -827,8 +833,6 @@
       "deepseek/deepseek-v4-pro-0813",
       "x-ai/grok-4.6",
       "x-ai/grok-4.6:batch",
-      "liquid/lfm-2.5-2.6b",
-      "liquid/lfm-2.5-2.6b:free",
       "nvidia/nemotron-3.5-lightning",
       "nvidia/nemotron-3.5-lightning:free",
       "sakana/sakana-namazu",
@@ -1164,7 +1168,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:50.119Z",
+    "last_checked": "2026-11-13T16:04:04.140Z",
     "featured": false,
     "source": "github"
   },
@@ -1184,7 +1188,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:50.412Z",
+    "last_checked": "2026-11-13T16:04:04.293Z",
     "featured": false,
     "source": "github"
   },
@@ -1204,7 +1208,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:51.255Z"
+    "last_checked": "2026-11-13T16:04:05.108Z"
   },
   {
     "id": "teamorouter",
@@ -1222,7 +1226,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:51.770Z"
+    "last_checked": "2026-11-13T16:04:05.666Z"
   },
   {
     "id": "together-ai",
@@ -1237,7 +1241,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:51.826Z",
+    "last_checked": "2026-11-13T16:04:05.810Z",
     "featured": false,
     "source": "github"
   },
@@ -1257,6 +1261,6 @@
     "source": "china_official",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-11-12T16:43:52.562Z"
+    "last_checked": "2026-11-13T16:04:06.585Z"
   }
 ]
