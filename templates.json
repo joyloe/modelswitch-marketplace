@@ -12,7 +12,7 @@
     "homepage": "https://cerebras.ai",
     "free_tier": "Free API key with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:06.398Z",
+    "last_checked": "2026-11-27T18:02:16.919Z",
     "featured": false,
     "source": "github"
   },
@@ -29,7 +29,7 @@
     "homepage": "https://deepseek.com",
     "free_tier": "Free beta access with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:06.802Z",
+    "last_checked": "2026-11-27T18:02:17.231Z",
     "featured": true,
     "source": "github"
   },
@@ -47,7 +47,7 @@
     "homepage": "https://ai.google.dev",
     "free_tier": "Free tier with generous quota, no credit card",
     "status": "degraded",
-    "last_checked": "2026-11-26T18:19:06.831Z",
+    "last_checked": "2026-11-27T18:02:17.277Z",
     "featured": true,
     "source": "github"
   },
@@ -65,7 +65,7 @@
     "homepage": "https://groq.com",
     "free_tier": "Free API key, no credit card, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:06.928Z",
+    "last_checked": "2026-11-27T18:02:17.324Z",
     "featured": true,
     "source": "github"
   },
@@ -82,7 +82,7 @@
     "homepage": "https://hyperbolic.xyz",
     "free_tier": "Free tier with rate limits",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:07.266Z",
+    "last_checked": "2026-11-27T18:02:17.455Z",
     "featured": false,
     "source": "github"
   },
@@ -100,7 +100,7 @@
     "homepage": "https://mistral.ai",
     "free_tier": "Free tier with rate limits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:07.409Z",
+    "last_checked": "2026-11-27T18:02:17.661Z",
     "featured": false,
     "source": "github"
   },
@@ -145,7 +145,7 @@
     "homepage": "https://build.nvidia.com",
     "free_tier": "Free developer credits, no credit card",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:07.436Z",
+    "last_checked": "2026-11-27T18:02:17.698Z",
     "featured": false,
     "source": "github"
   },
@@ -174,7 +174,7 @@
       "openai/gpt-6.2-sol:batch",
       "tencent/hy4-flash",
       "qwen/qwen4-max",
-      "inclusionai/ling-3.2-flash:free",
+      "inclusionai/ling-3.2-flash",
       "google/gemini-4-hydrogen",
       "google/gemini-4-hydrogen:batch",
       "baidu/ernie-5.5-flash-preview:free",
@@ -639,7 +639,7 @@
     "source": "overseas_aggregator",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:07.776Z"
+    "last_checked": "2026-11-27T18:02:18.297Z"
   },
   {
     "id": "openrouter-free",
@@ -666,7 +666,7 @@
       "openai/gpt-6.2-sol:batch",
       "tencent/hy4-flash",
       "qwen/qwen4-max",
-      "inclusionai/ling-3.2-flash:free",
+      "inclusionai/ling-3.2-flash",
       "google/gemini-4-hydrogen",
       "google/gemini-4-hydrogen:batch",
       "baidu/ernie-5.5-flash-preview:free",
@@ -1129,7 +1129,7 @@
     "homepage": "https://openrouter.ai",
     "free_tier": "Free models available, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:07.830Z",
+    "last_checked": "2026-11-27T18:02:18.350Z",
     "featured": false,
     "source": "github"
   },
@@ -1148,7 +1148,7 @@
     "homepage": "https://sambanova.ai",
     "free_tier": "Free API key, rate-limited",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:08.055Z",
+    "last_checked": "2026-11-27T18:02:18.437Z",
     "featured": false,
     "source": "github"
   },
@@ -1168,7 +1168,7 @@
     "source": "china_official",
     "featured": true,
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:08.998Z"
+    "last_checked": "2026-11-27T18:02:19.190Z"
   },
   {
     "id": "teamorouter",
@@ -1186,7 +1186,7 @@
     "source": "china_aggregator",
     "featured": false,
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:09.699Z"
+    "last_checked": "2026-11-27T18:02:19.993Z"
   },
   {
     "id": "together-ai",
@@ -1201,7 +1201,7 @@
     "homepage": "https://together.ai",
     "free_tier": "$5 free credits on signup",
     "status": "alive",
-    "last_checked": "2026-11-26T18:19:09.819Z",
+    "last_checked": "2026-11-27T18:02:20.074Z",
     "featured": false,
     "source": "github"
   },
@@ -1220,7 +1220,7 @@
     "free_tier": "Free trial quota for new users",
     "source": "china_official",
     "featured": false,
-    "status": "down",
-    "last_checked": "2026-11-26T18:19:10.196Z"
+    "status": "alive",
+    "last_checked": "2026-11-27T18:02:20.830Z"
   }
 ]
